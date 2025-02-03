@@ -153,18 +153,13 @@ if (/[!@#$%^&*]/.test(password)) {
 }
 
 // 21. Bahor oyini aniqlash
-let son1 = 3;
-if (son1 === 3 || son1 === 4 || son1 === 5) {
-  console.log("Bahor");
-}
+// let son1 = 3;
+// if (son1 === 3 || son1 === 4 || son1 === 5) {
+//   console.log("Bahor");
+// }
 
 // 22. Sonning juftlik va toqligini aniqlash
-let son2 = 7;
-if (son2 % 2 === 0) {
-  console.log("Juft son");
-} else {
-  console.log("Toq son");
-}
+// S
 
 // 23. Sonning 10 dan kichikligini tekshirish
 let son3 = 8;
